@@ -1,6 +1,6 @@
 {
   "name": "@macklinu/chord-diagram",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "React components for rendering SVG guitar chord diagrams",
   "type": "module",
   "source": "src/index.ts",
