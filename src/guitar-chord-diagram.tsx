@@ -8,7 +8,7 @@ import {
   useMemo,
 } from 'react'
 import invariant from 'tiny-invariant'
-import * as z from 'zod'
+import { z } from 'zod/v4'
 
 export interface GuitarChordDiagramProps {
   /**
