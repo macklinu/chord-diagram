@@ -1,5 +1,11 @@
 # @macklinu/chord-diagram
 
+## 1.0.1
+
+### Patch Changes
+
+- 0761222: Use zod/v4 from latest channel
+
 ## 1.0.0
 
 ### Major Changes
