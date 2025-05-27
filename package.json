@@ -26,6 +26,7 @@
     "dist"
   ],
   "packageManager": "pnpm@10.11.0",
+  "repository": "macklinu/chord-diagram",
   "scripts": {
     "build": "tsup && pnpm check-exports",
     "release": "pnpm build && changeset publish",
